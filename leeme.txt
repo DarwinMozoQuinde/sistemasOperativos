@@ -2,3 +2,7 @@ mi primer commit
 
 
 darwinmozoquinde 
+
+0 20 * * 1-4 sh /home/darwinmozo/os/codigo/codigo.sh
+30 17 * * 5 sh /home/darwinmozo/os/codigo/codigo.sh
+
